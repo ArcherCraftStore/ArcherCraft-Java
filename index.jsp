@@ -1,0 +1,2 @@
+<!DOCTYPE HTML€
+<html></html>
